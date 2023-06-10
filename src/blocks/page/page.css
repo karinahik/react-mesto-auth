@@ -6,5 +6,5 @@
   flex-direction: column;
   margin: 0 auto;
   text-rendering: optimizeLegibility;
-  height: 100 vh;
+  min-height: 100vh;
 }
